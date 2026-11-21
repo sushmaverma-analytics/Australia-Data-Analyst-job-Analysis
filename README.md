@@ -104,7 +104,8 @@ Australia Data Analyst Job Analysis using Python in Microsoft Fabric. This proje
 
 - README.md – Project documentation.
 
-- 
+- <img width="1226" height="638" alt="Screenshot 2026-11-22 051025" src="https://github.com/user-attachments/assets/b06858df-ff9f-4451-a1b6-40008b9c40b2" />
+
 
 # Skills Demonstrated
 
